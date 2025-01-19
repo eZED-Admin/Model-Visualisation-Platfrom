@@ -1,40 +1,44 @@
 {
   "models" : {
-    "Bracing" : {
-      "mtl" : "Models\/Bracing\/Bracing.mtl",
-      "obj" : "Models\/Bracing\/Bracing.obj"
-    },
-    "Bracing3" : {
-      "mtl" : "Models\/Bracing3\/Bracing3.mtl",
-      "obj" : "Models\/Bracing3\/Bracing3.obj"
-    },
-    "New part" : {
-      "mtl" : "Models\/New part\/New part.mtl",
-      "obj" : "Models\/New part\/New part.obj"
-    },
-    "house test" : {
-      "mtl" : "Models\/house test\/house test.mtl",
-      "obj" : "Models\/house test\/house test.obj"
+    "Bracing2" : {
+      "obj" : "Models\/Bracing2\/Bracing2.obj",
+      "mtl" : "Models\/Bracing2\/Bracing2.mtl"
     },
     "Deer Feeder" : {
-      "mtl" : "Models\/Deer Feeder\/deer_feeder.mtl",
-      "obj" : "Models\/Deer Feeder\/deer_feeder.obj"
+      "obj" : "Models\/Deer Feeder\/deer_feeder.obj",
+      "mtl" : "Models\/Deer Feeder\/deer_feeder.mtl"
     },
     "Thor Final" : {
-      "mtl" : "Models\/Thor Final\/Thor Final.mtl",
-      "obj" : "Models\/Thor Final\/Thor Final.obj"
+      "obj" : "Models\/Thor Final\/Thor Final.obj",
+      "mtl" : "Models\/Thor Final\/Thor Final.mtl"
+    },
+    "Bracing5" : {
+      "mtl" : "Models\/Bracing5\/Bracing5.mtl",
+      "obj" : "Models\/Bracing5\/Bracing5.obj"
+    },
+    "New part" : {
+      "obj" : "Models\/New part\/New part.obj",
+      "mtl" : "Models\/New part\/New part.mtl"
+    },
+    "Bracing" : {
+      "obj" : "Models\/Bracing\/Bracing.obj",
+      "mtl" : "Models\/Bracing\/Bracing.mtl"
+    },
+    "Bracing3" : {
+      "obj" : "Models\/Bracing3\/Bracing3.obj",
+      "mtl" : "Models\/Bracing3\/Bracing3.mtl"
     },
     "Coil" : {
-      "mtl" : "Models\/Coil\/Coil.mtl",
-      "obj" : "Models\/Coil\/Coil.obj"
+      "obj" : "Models\/Coil\/Coil.obj",
+      "mtl" : "Models\/Coil\/Coil.mtl"
+    },
+    "house test" : {
+      "obj" : "Models\/house test\/house test.obj",
+      "mtl" : "Models\/house test\/house test.mtl"
     },
     "test4" : {
-      "mtl" : "Models\/test4\/test4.mtl",
-      "obj" : "Models\/test4\/test4.obj"
-    },
-    "Bracing2" : {
-      "mtl" : "Models\/Bracing2\/Bracing2.mtl",
-      "obj" : "Models\/Bracing2\/Bracing2.obj"
+      "obj" : "Models\/test4\/test4.obj",
+      "mtl" : "Models\/test4\/test4.mtl"
     }
   }
 }
