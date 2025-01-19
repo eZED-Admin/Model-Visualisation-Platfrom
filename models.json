@@ -1,32 +1,36 @@
 {
   "models" : {
-    "Deer Feeder" : {
-      "mtl" : "Models\/Deer Feeder\/deer_feeder.mtl",
-      "obj" : "Models\/Deer Feeder\/deer_feeder.obj"
-    },
-    "Thor Final" : {
-      "mtl" : "Models\/Thor Final\/Thor Final.mtl",
-      "obj" : "Models\/Thor Final\/Thor Final.obj"
-    },
-    "Coil" : {
-      "mtl" : "Models\/Coil\/Coil.mtl",
-      "obj" : "Models\/Coil\/Coil.obj"
+    "house test" : {
+      "obj" : "Models\/house test\/house test.obj",
+      "mtl" : "Models\/house test\/house test.mtl"
     },
     "New part" : {
-      "mtl" : "Models\/New part\/New part.mtl",
-      "obj" : "Models\/New part\/New part.obj"
-    },
-    "house test" : {
-      "mtl" : "Models\/house test\/house test.mtl",
-      "obj" : "Models\/house test\/house test.obj"
+      "obj" : "Models\/New part\/New part.obj",
+      "mtl" : "Models\/New part\/New part.mtl"
     },
     "Bracing2" : {
-      "mtl" : "Models\/Bracing2\/Bracing2.mtl",
-      "obj" : "Models\/Bracing2\/Bracing2.obj"
+      "obj" : "Models\/Bracing2\/Bracing2.obj",
+      "mtl" : "Models\/Bracing2\/Bracing2.mtl"
+    },
+    "Deer Feeder" : {
+      "obj" : "Models\/Deer Feeder\/deer_feeder.obj",
+      "mtl" : "Models\/Deer Feeder\/deer_feeder.mtl"
+    },
+    "Coil" : {
+      "obj" : "Models\/Coil\/Coil.obj",
+      "mtl" : "Models\/Coil\/Coil.mtl"
+    },
+    "Bracing3" : {
+      "obj" : "Models\/Bracing3\/Bracing3.obj",
+      "mtl" : "Models\/Bracing3\/Bracing3.mtl"
     },
     "Bracing" : {
-      "mtl" : "Models\/Bracing\/Bracing.mtl",
-      "obj" : "Models\/Bracing\/Bracing.obj"
+      "obj" : "Models\/Bracing\/Bracing.obj",
+      "mtl" : "Models\/Bracing\/Bracing.mtl"
+    },
+    "Thor Final" : {
+      "obj" : "Models\/Thor Final\/Thor Final.obj",
+      "mtl" : "Models\/Thor Final\/Thor Final.mtl"
     }
   }
 }
