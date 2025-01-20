@@ -1,84 +1,88 @@
 {
   "models" : {
-    "Strawbale Bracing" : {
-      "obj" : "Models\/Strawbale Bracing\/Strawbale Bracing.obj",
-      "mtl" : "Models\/Strawbale Bracing\/Strawbale Bracing.mtl"
-    },
-    "Bracing2" : {
-      "obj" : "Models\/Bracing2\/Bracing2.obj",
-      "mtl" : "Models\/Bracing2\/Bracing2.mtl"
-    },
-    "new1" : {
-      "obj" : "Models\/new1\/new1.obj",
-      "mtl" : "Models\/new1\/new1.mtl"
-    },
-    "house test" : {
-      "obj" : "Models\/house test\/house test.obj",
-      "mtl" : "Models\/house test\/house test.mtl"
-    },
-    "Deer Feeder" : {
-      "obj" : "Models\/Deer Feeder\/deer_feeder.obj",
-      "mtl" : "Models\/Deer Feeder\/deer_feeder.mtl"
-    },
-    "strawbale bracing4" : {
-      "obj" : "Models\/strawbale bracing4\/strawbale bracing4.obj",
-      "mtl" : "Models\/strawbale bracing4\/strawbale bracing4.mtl"
-    },
-    "strawbale bracing3" : {
-      "obj" : "Models\/strawbale bracing3\/strawbale bracing3.obj",
-      "mtl" : "Models\/strawbale bracing3\/strawbale bracing3.mtl"
-    },
     "multiple image test2" : {
-      "obj" : "Models\/multiple image test2\/multiple image test2.obj",
-      "mtl" : "Models\/multiple image test2\/multiple image test2.mtl"
-    },
-    "Bracing3" : {
-      "obj" : "Models\/Bracing3\/Bracing3.obj",
-      "mtl" : "Models\/Bracing3\/Bracing3.mtl"
-    },
-    "dfgfd" : {
-      "obj" : "Models\/dfgfd\/dfgfd.obj",
-      "mtl" : "Models\/dfgfd\/dfgfd.mtl"
-    },
-    "multiple image test" : {
-      "obj" : "Models\/multiple image test\/multiple image test.obj",
-      "mtl" : "Models\/multiple image test\/multiple image test.mtl"
+      "mtl" : "Models\/multiple image test2\/multiple image test2.mtl",
+      "obj" : "Models\/multiple image test2\/multiple image test2.obj"
     },
     "new" : {
-      "obj" : "Models\/new\/new.obj",
-      "mtl" : "Models\/new\/new.mtl"
+      "mtl" : "Models\/new\/new.mtl",
+      "obj" : "Models\/new\/new.obj"
     },
-    "Coil" : {
-      "obj" : "Models\/Coil\/Coil.obj",
-      "mtl" : "Models\/Coil\/Coil.mtl"
+    "fdgb" : {
+      "mtl" : "Models\/fdgb\/fdgb.mtl",
+      "obj" : "Models\/fdgb\/fdgb.obj"
     },
-    "Thor Final" : {
-      "obj" : "Models\/Thor Final\/Thor Final.obj",
-      "mtl" : "Models\/Thor Final\/Thor Final.mtl"
+    "Bracing3" : {
+      "mtl" : "Models\/Bracing3\/Bracing3.mtl",
+      "obj" : "Models\/Bracing3\/Bracing3.obj"
     },
-    "strawbale bracing5" : {
-      "obj" : "Models\/strawbale bracing5\/strawbale bracing5.obj",
-      "mtl" : "Models\/strawbale bracing5\/strawbale bracing5.mtl"
-    },
-    "Bracing" : {
-      "obj" : "Models\/Bracing\/Bracing.obj",
-      "mtl" : "Models\/Bracing\/Bracing.mtl"
-    },
-    "bracing6" : {
-      "obj" : "Models\/bracing6\/bracing6.obj",
-      "mtl" : "Models\/bracing6\/bracing6.mtl"
+    "new1" : {
+      "mtl" : "Models\/new1\/new1.mtl",
+      "obj" : "Models\/new1\/new1.obj"
     },
     "test4" : {
-      "obj" : "Models\/test4\/test4.obj",
-      "mtl" : "Models\/test4\/test4.mtl"
+      "mtl" : "Models\/test4\/test4.mtl",
+      "obj" : "Models\/test4\/test4.obj"
+    },
+    "Deer Feeder" : {
+      "mtl" : "Models\/Deer Feeder\/deer_feeder.mtl",
+      "obj" : "Models\/Deer Feeder\/deer_feeder.obj"
+    },
+    "strawbale bracing4" : {
+      "mtl" : "Models\/strawbale bracing4\/strawbale bracing4.mtl",
+      "obj" : "Models\/strawbale bracing4\/strawbale bracing4.obj"
+    },
+    "Thor Final" : {
+      "mtl" : "Models\/Thor Final\/Thor Final.mtl",
+      "obj" : "Models\/Thor Final\/Thor Final.obj"
+    },
+    "multiple image test" : {
+      "mtl" : "Models\/multiple image test\/multiple image test.mtl",
+      "obj" : "Models\/multiple image test\/multiple image test.obj"
+    },
+    "Bracing" : {
+      "mtl" : "Models\/Bracing\/Bracing.mtl",
+      "obj" : "Models\/Bracing\/Bracing.obj"
+    },
+    "strawbale bracing3" : {
+      "mtl" : "Models\/strawbale bracing3\/strawbale bracing3.mtl",
+      "obj" : "Models\/strawbale bracing3\/strawbale bracing3.obj"
+    },
+    "bracing6" : {
+      "mtl" : "Models\/bracing6\/bracing6.mtl",
+      "obj" : "Models\/bracing6\/bracing6.obj"
     },
     "New part" : {
-      "obj" : "Models\/New part\/New part.obj",
-      "mtl" : "Models\/New part\/New part.mtl"
+      "mtl" : "Models\/New part\/New part.mtl",
+      "obj" : "Models\/New part\/New part.obj"
+    },
+    "house test" : {
+      "mtl" : "Models\/house test\/house test.mtl",
+      "obj" : "Models\/house test\/house test.obj"
     },
     "Bracing5" : {
-      "obj" : "Models\/Bracing5\/Bracing5.obj",
-      "mtl" : "Models\/Bracing5\/Bracing5.mtl"
+      "mtl" : "Models\/Bracing5\/Bracing5.mtl",
+      "obj" : "Models\/Bracing5\/Bracing5.obj"
+    },
+    "Coil" : {
+      "mtl" : "Models\/Coil\/Coil.mtl",
+      "obj" : "Models\/Coil\/Coil.obj"
+    },
+    "Strawbale Bracing" : {
+      "mtl" : "Models\/Strawbale Bracing\/Strawbale Bracing.mtl",
+      "obj" : "Models\/Strawbale Bracing\/Strawbale Bracing.obj"
+    },
+    "dfgfd" : {
+      "mtl" : "Models\/dfgfd\/dfgfd.mtl",
+      "obj" : "Models\/dfgfd\/dfgfd.obj"
+    },
+    "strawbale bracing5" : {
+      "mtl" : "Models\/strawbale bracing5\/strawbale bracing5.mtl",
+      "obj" : "Models\/strawbale bracing5\/strawbale bracing5.obj"
+    },
+    "Bracing2" : {
+      "mtl" : "Models\/Bracing2\/Bracing2.mtl",
+      "obj" : "Models\/Bracing2\/Bracing2.obj"
     }
   }
 }
