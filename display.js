@@ -18,6 +18,9 @@ document.body.appendChild(renderer.domElement);
 // OrbitControls
 const controls = new OrbitControls(camera, renderer.domElement);
 controls.enableDamping = true;
+controls.enableZoom = true;
+controls.minDistance = 0;
+controls.maxDistance = Infinity;
 
 // Lighting
 const ambientLight = new THREE.AmbientLight(0x404040, 4); // soft white light
