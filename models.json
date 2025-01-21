@@ -1,28 +1,32 @@
 {
   "models" : {
-    "Deer Feeder" : {
-      "mtl" : "Models\/Deer Feeder\/deer_feeder.mtl",
-      "obj" : "Models\/Deer Feeder\/deer_feeder.obj"
+    "Straw Bale Detail 2" : {
+      "mtl" : "Models\/Straw Bale Detail 2\/Straw Bale Detail 2.mtl",
+      "obj" : "Models\/Straw Bale Detail 2\/Straw Bale Detail 2.obj"
     },
     "Straw Bale Frame Detail" : {
-      "mtl" : "Models\/Straw Bale Frame Detail\/Straw Bale Frame Detail.mtl",
-      "obj" : "Models\/Straw Bale Frame Detail\/Straw Bale Frame Detail.obj"
+      "obj" : "Models\/Straw Bale Frame Detail\/Straw Bale Frame Detail.obj",
+      "mtl" : "Models\/Straw Bale Frame Detail\/Straw Bale Frame Detail.mtl"
     },
-    "house test" : {
-      "obj" : "Models\/house test\/house test.obj",
-      "mtl" : "Models\/house test\/house test.mtl"
-    },
-    "Straw Bale Detail 1" : {
-      "obj" : "Models\/Straw Bale Detail 1\/Straw Bale Detail 1.obj",
-      "mtl" : "Models\/Straw Bale Detail 1\/Straw Bale Detail 1.mtl"
+    "Deer Feeder" : {
+      "obj" : "Models\/Deer Feeder\/deer_feeder.obj",
+      "mtl" : "Models\/Deer Feeder\/deer_feeder.mtl"
     },
     "Thor Final" : {
-      "obj" : "Models\/Thor Final\/Thor Final.obj",
-      "mtl" : "Models\/Thor Final\/Thor Final.mtl"
+      "mtl" : "Models\/Thor Final\/Thor Final.mtl",
+      "obj" : "Models\/Thor Final\/Thor Final.obj"
     },
     "Coil" : {
-      "mtl" : "Models\/Coil\/Coil.mtl",
-      "obj" : "Models\/Coil\/Coil.obj"
+      "obj" : "Models\/Coil\/Coil.obj",
+      "mtl" : "Models\/Coil\/Coil.mtl"
+    },
+    "house test" : {
+      "mtl" : "Models\/house test\/house test.mtl",
+      "obj" : "Models\/house test\/house test.obj"
+    },
+    "Straw Bale Detail 1" : {
+      "mtl" : "Models\/Straw Bale Detail 1\/Straw Bale Detail 1.mtl",
+      "obj" : "Models\/Straw Bale Detail 1\/Straw Bale Detail 1.obj"
     }
   }
 }
